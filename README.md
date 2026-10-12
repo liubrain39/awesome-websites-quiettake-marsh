@@ -28,6 +28,7 @@ Useful websites for students, developers, creators, downloads, tools, converters
 - Unsplash (free photos) — https://unsplash.com/
 - Pixabay (free media) — https://pixabay.com/
 - Overleaf (LaTeX online editor) — https://www.overleaf.com/
+- **QuietTake Noise Remover** — https://noiseremover.site/ — Free browser-local speech cleanup and WAV export, without signup or audio upload; up to 50 MB and five minutes per file.
 
 ## Downloads (software + packages)
 
